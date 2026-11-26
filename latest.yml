@@ -1,8 +1,8 @@
-version: 1.1.1
+version: 1.2.0
 files:
   - url: app-contable-setup.exe
-    sha512: q37HgEQbW4NuRMv4oecr2ADDirVf4dpM09OOe6q9SGXNX1cTSig8NM72VPTYW9RI/v6thQjnxngeIM9roxPijA==
-    size: 87536214
+    sha512: zZmrLLG7NXk0viQeEJdJaLmLcER2ZNM0vyeV1YLsk45pvmYCGedOxvhXYV35US01FJVqqrHkXjpz+eak9rh+Wg==
+    size: 87472880
 path: app-contable-setup.exe
-sha512: q37HgEQbW4NuRMv4oecr2ADDirVf4dpM09OOe6q9SGXNX1cTSig8NM72VPTYW9RI/v6thQjnxngeIM9roxPijA==
-releaseDate: '2026-11-26T00:58:08.218Z'
+sha512: zZmrLLG7NXk0viQeEJdJaLmLcER2ZNM0vyeV1YLsk45pvmYCGedOxvhXYV35US01FJVqqrHkXjpz+eak9rh+Wg==
+releaseDate: '2026-11-26T23:09:12.431Z'
